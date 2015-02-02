@@ -1,0 +1,31 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/sohamchetan/Documents/MetaProgramming/lib/recorder.rb": [
+        1
+      ],
+      "/Users/sohamchetan/Documents/MetaProgramming/lib/recorder/vcr.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1422901008
+  }
+}
